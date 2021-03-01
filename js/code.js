@@ -10,8 +10,9 @@ $(window).on("load", function () {
 
         setInterval(function(){
                $("body").css("overflow-y","scroll");
-               $(".loading").fadeOut("slow",function () {
+               $(".all").fadeOut("slow",function () {
                 $(this).remove();
                 $(window).scrollTop(0);
-               });},2700);
+               });},2000);
+               
 });
