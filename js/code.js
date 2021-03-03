@@ -14,5 +14,11 @@ $(window).on("load", function () {
                 $(this).remove();
                 $(window).scrollTop(0);
                });},2000);
+         let paths = document.querySelectorAll("#name path");
+               let x = 0.08;
+               for(let i=0;i<paths.length;i++){
+                  paths[i].style.animation =`islah 2s ease forwards ${i*x}`+"s";
+               }
+               console.log(paths.length*x);
                
 });
