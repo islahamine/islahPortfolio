@@ -12521,14 +12521,8 @@ hr {
 }
 
 .avatar {
-  margin: 2rem 0;
-  width: 150px;
-}
-
-@media screen and (min-width: 769px) {
-  .avatar {
-    width: 210px;
-  }
+  margin: 3rem 0;
+  width: 210px;
 }
 
 .hero-foot {
@@ -13862,7 +13856,8 @@ input[name="carousel"] {
   letter-spacing: 1.6px;
 }
 #name {
-  animation: fill 2s forwards 3.7s;
+  animation: fill 2s forwards 5.7s;
+  margin-bottom: 2rem;
 }
 #name path:nth-child(1) {
   stroke-dasharray: 205.7855987548828px;
@@ -14011,6 +14006,74 @@ input[name="carousel"] {
   }
   to {
     fill: #141c3a;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  #name {
+    width: 690px;
+    height: 37px;
+  }
+}
+
+@media screen and (max-width: 783px) {
+  #name {
+    width: 620px;
+    height: 33px;
+  }
+  .avatar {
+    width: 180px;
+  }
+  .hero-foot {
+    margin-top: 2rem;
+  }
+}
+.designer {
+  display: none;
+}
+@media screen and (max-width: 676px) {
+  #name {
+    width: 556px;
+    height: 30px;
+  }
+}
+@media screen and (max-width: 610px) {
+  #name {
+    width: 486px;
+    height: 26px;
+  }
+}
+@media screen and (max-width: 530px) {
+  #name {
+    width: 430px;
+    height: 23px;
+  }
+  .avatar {
+    width: 155px;
+  }
+}
+@media screen and (max-width: 484px) {
+  #name {
+    width: 390px;
+    height: 21px;
+  }
+}
+@media screen and (max-width: 445px) {
+  #name {
+    width: 338px;
+    height: 18px;
+  }
+}
+@media screen and (max-width: 388px) {
+  #name {
+    width: 299px;
+    height: 16px;
+  }
+}
+@media screen and (max-width: 350px) {
+  #name {
+    width: 262px;
+    height: 14px;
   }
 }
 /*# sourceMappingURL=main.css.map */
