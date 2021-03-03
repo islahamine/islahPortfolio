@@ -13861,4 +13861,156 @@ input[name="carousel"] {
   cursor: pointer;
   letter-spacing: 1.6px;
 }
+#name {
+  animation: fill 2s forwards 3.7s;
+}
+#name path:nth-child(1) {
+  stroke-dasharray: 205.7855987548828px;
+  stroke-dashoffset: 205.7855987548828px;
+}
+#name path:nth-child(2) {
+  stroke-dasharray: 157.80490112304688px;
+  stroke-dashoffset: 157.80490112304688px;
+}
+#name path:nth-child(3) {
+  stroke-dasharray: 147.00921630859375px;
+  stroke-dashoffset: 147.00921630859375px;
+}
+#name path:nth-child(4) {
+  stroke-dasharray: 89.16075897216797px;
+  stroke-dashoffset: 89.16075897216797px;
+}
+#name path:nth-child(5) {
+  stroke-dasharray: 213.72589111328125px;
+  stroke-dashoffset: 213.72589111328125px;
+}
+#name path:nth-child(6) {
+  stroke-dasharray: 154.2481689453125px;
+  stroke-dashoffset: 154.2481689453125px;
+}
+#name path:nth-child(7) {
+  stroke-dasharray: 157.80471801757812px;
+  stroke-dashoffset: 157.80471801757812px;
+}
+#name path:nth-child(8) {
+  stroke-dasharray: 90.13098907470703px;
+  stroke-dashoffset: 90.13098907470703px;
+}
+#name path:nth-child(9) {
+  stroke-dasharray: 36.12897491455078px;
+  stroke-dashoffset: 36.12897491455078px;
+}
+#name path:nth-child(10) {
+  stroke-dasharray: 153.4154815673828px;
+  stroke-dashoffset: 153.4154815673828px;
+}
+#name path:nth-child(11) {
+  stroke-dasharray: 90.13159942626953px;
+  stroke-dashoffset: 90.13159942626953px;
+}
+#name path:nth-child(12) {
+  stroke-dasharray: 149.60704040527344px;
+  stroke-dashoffset: 149.60704040527344px;
+}
+#name path:nth-child(13) {
+  stroke-dasharray: 154.24807739257812px;
+  stroke-dashoffset: 154.24807739257812px;
+}
+#name path:nth-child(14) {
+  stroke-dasharray: 111.3465576171875px;
+  stroke-dashoffset: 111.3465576171875px;
+}
+#name path:nth-child(15) {
+  stroke-dasharray: 30.969646453857422px;
+  stroke-dashoffset: 30.969646453857422px;
+}
+#name path:nth-child(16) {
+  stroke-dasharray: 157.8053741455078px;
+  stroke-dashoffset: 157.8053741455078px;
+}
+#name path:nth-child(17) {
+  stroke-dasharray: 154.2477264404297px;
+  stroke-dashoffset: 154.2477264404297px;
+}
+#name path:nth-child(18) {
+  stroke-dasharray: 191.1969757080078px;
+  stroke-dashoffset: 191.1969757080078px;
+}
+#name path:nth-child(19) {
+  stroke-dasharray: 205.78578186035156px;
+  stroke-dashoffset: 205.78578186035156px;
+}
+#name path:nth-child(20) {
+  stroke-dasharray: 157.8053741455078px;
+  stroke-dashoffset: 157.8053741455078px;
+}
+#name path:nth-child(21) {
+  stroke-dasharray: 126.96556091308594px;
+  stroke-dashoffset: 126.96556091308594px;
+}
+#name path:nth-child(22) {
+  stroke-dasharray: 157.80538940429688px;
+  stroke-dashoffset: 157.80538940429688px;
+}
+#name path:nth-child(23) {
+  stroke-dasharray: 97.661865234375px;
+  stroke-dashoffset: 97.661865234375px;
+}
+#name path:nth-child(24) {
+  stroke-dasharray: 149.60775756835938px;
+  stroke-dashoffset: 149.60775756835938px;
+}
+#name path:nth-child(25) {
+  stroke-dasharray: 189.61326599121094px;
+  stroke-dashoffset: 189.61326599121094px;
+}
+#name path:nth-child(26) {
+  stroke-dasharray: 157.80519104003906px;
+  stroke-dashoffset: 157.80519104003906px;
+}
+#name path:nth-child(27) {
+  stroke-dasharray: 90.12975311279297px;
+  stroke-dashoffset: 90.12975311279297px;
+}
+#name path:nth-child(28) {
+  stroke-dasharray: 225.4935760498047px;
+  stroke-dashoffset: 225.4935760498047px;
+}
+#name path:nth-child(29) {
+  stroke-dasharray: 320.5286865234375px;
+  stroke-dashoffset: 320.5286865234375px;
+}
+#name path:nth-child(30) {
+  stroke-dasharray: 157.80616760253906px;
+  stroke-dashoffset: 157.80616760253906px;
+}
+#name path:nth-child(31) {
+  stroke-dasharray: 154.24790954589844px;
+  stroke-dashoffset: 154.24790954589844px;
+}
+#name path:nth-child(32) {
+  stroke-dasharray: 111.34523010253906px;
+  stroke-dashoffset: 111.34523010253906px;
+}
+#name path:nth-child(33) {
+  stroke-dasharray: 149.60763549804688px;
+  stroke-dashoffset: 149.60763549804688px;
+}
+#name path:nth-child(34) {
+  stroke-dasharray: 90.13163757324219px;
+  stroke-dashoffset: 90.13163757324219px;
+}
+@keyframes islah {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes fill {
+  from {
+    fill: transparent;
+  }
+  to {
+    fill: #141c3a;
+  }
+}
 /*# sourceMappingURL=main.css.map */
